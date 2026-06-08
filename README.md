@@ -2,8 +2,8 @@
 
 > Optimize delivery routes across Indian cities using the Traveling Salesman Problem (TSP), enhanced with 2-opt optimization and a modern glassmorphism interface.
 
-(SmartRoute/assets/homescreen.png)
-(SmartRoute/assets/mainscreen.png)
+![Dashboard](SmartRoute/assets/homescreen.png)
+![Mainscreen](SmartRoute/assets/mainscreen.png)
 ---
 
 ## 🌟 Overview
